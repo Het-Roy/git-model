@@ -1,4 +1,4 @@
-Hello Git and GitHub!
-This is my second update.
-This is an update form GitHub
-This is the second update just to check.
+this is an update made from echo
+Hello World
+Hello World
+Hello World
